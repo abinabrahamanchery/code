@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<html>
 
-You can use the [editor on GitHub](https://github.com/abinabrahamanchery/code/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<title> Abin'z Scrap Book</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
 
-### Markdown
+<h1>this page is intentionally kept blank</h1>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Getting Bored ..??
 
-```markdown
-Syntax highlighted code block
+Some of my Stories are really Exiting and Adventures
 
-# Header 1
-## Header 2
-### Header 3
+Well before going in to that ,, you might think why this web site is look like a Grandpa ...!!
+seems like 3 decade back web site ..??
 
-- Bulleted
-- List
+well your right i would like to skip the JS and the CSS, Simply because I'm not so good in those stuffs
+before divin' into ma web, i would like to drag your attention to ma friend' Josh Mathews web http://www.joshmatthews.net/
 
-1. Numbered
-2. List
+Okey,  Now tell me is this Borin' ..???
 
-**Bold** and _Italic_ and `Code` text
+if your answer  is still YES, then i would like to tell you the real story
 
-[Link](url) and ![Image](src)
-```
+well the answer is tht this site had just survived a Very good Hack from the Turkish Hackers....and i would like to give a Middle Finger salute to all the brave hackers who hack into ma server  and host there national Anthem ,its the first time i'm hearing Turkish national anthem ...Crap what a Boring yar...!!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Better you try some Eminem raps,that will be far better ..!!
 
-### Jekyll Themes
+PS
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abinabrahamanchery/code/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    Now its Time to This from the Scratch ,  If you like to help me in Build this Ping me (iamabinabraham at gmail dot com), 'Cause I'm a bit lazy to code ...:-D
+    Still Feels its Boring , - then what are you still looking at ..? get the hell out of here
 
-### Support or Contact
+</body>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
